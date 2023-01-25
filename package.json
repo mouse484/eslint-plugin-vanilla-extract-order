@@ -23,6 +23,9 @@
     "vitest": "^0.28.1"
   },
   "dependencies": {
-    "eslint": "^8.32.0"
+    "eslint": "^8.32.0",
+    "postcss": "^8.4.21",
+    "postcss-sorting": "^8.0.1",
+    "stylelint-config-recess-order": "^3.1.0"
   }
 }
